@@ -1,5 +1,5 @@
 # MyAppVitrine
-## Basic android app to present a product (Tata motors for example purposes)
+Basic android app to present a product (Tata motors for example purposes)
 ---
 * You can find my source code in "MyAppVitrine" folder
 * First version of the Documentation in "Documentation MyAppVitrine.txt"
