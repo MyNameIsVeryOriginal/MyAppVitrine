@@ -1,0 +1,27 @@
+Documentation MyAppVitrine
+
+une activité launcher
+	- possible implémentation de mise à jour //TODO
+	- créer un intent vers MainActivity
+
+Un écran d'acceuil		Main Activity
+	- bouton aide 			id:buttonHelp
+	- bouton introduction	id:buttonIntro
+	- bouton produit 		id:productButton
+
+un écran d'aide / tutoriel d'autilisation 	id:buttonHelp
+	- text mise en forme avec des couleurs et des tailles de polices diff
+	- intent simple 	target:HelpActivity.java
+	- bouton retour vers acceuil
+
+un écran intro id:buttonIntro
+	- target:IntroActivity.java
+	- intent extra -> récupérer titre, contenu, bouton retour 	
+
+un écran produit 	id:productButton
+	- target:ProductActivity.java
+	- intent extra -> récupérer titre, contenu, bouton retour
+
+
+File export MyAppVitrine.apk
+
